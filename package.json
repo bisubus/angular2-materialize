@@ -1,6 +1,7 @@
 {
   "name": "angular2-materialize",
   "description": "Angular 2 support for Materialize CSS framework",
+  "version": "6.8.0-pre",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "scripts": {
