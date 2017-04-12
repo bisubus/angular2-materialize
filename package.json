@@ -37,12 +37,12 @@
   },
   "homepage": "https://github.com/InfomediaLtd/angular2-materialize#readme",
   "dependencies": {
-    "@angular/forms": "^2.0.1"
+    "@angular/forms": "^2.0.1 || ^4.0.0"
   },
   "peerDependencies": {
     "materialize-css": "^0.97.8",
-    "@angular/common": "^2.1.2",
-    "@angular/core": "^2.1.2"
+    "@angular/common": "^2.1.2 || ^4.0.0",
+    "@angular/core": "^2.1.2 || ^4.0.0"
   },
   "devDependencies": {
     "@angular/common": "^2.1.2",
